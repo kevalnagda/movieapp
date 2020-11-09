@@ -1,6 +1,6 @@
-# movieapp
+# Movieapp
 Dockerized flask app backed by nginx
 
-# Screenshot
+## Screenshot
 
 ![](https://github.com/kevalnagda/movieapp/blob/main/images/screenshot.png)
