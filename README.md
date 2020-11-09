@@ -3,4 +3,4 @@ Dockerized flask app backed by nginx
 
 # Screenshot
 
-![](/images/sceenshot.png)
+![](https://github.com/kevalnagda/movieappimages/sceenshot.png)
