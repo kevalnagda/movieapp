@@ -1,6 +1,6 @@
 # Movieapp
 
-A Docker image with Flask application backed with Gunicorn and Nginx.
+A Dockerized Flask application backed with Gunicorn and Nginx.
 
 ## Description
 
